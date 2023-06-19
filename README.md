@@ -7,6 +7,8 @@
 - 🌱 I’m currently learning Web3 security
 - 📫 How to reach me: robindivino at pm dot me
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%23+whoami;Cybersecurity+Researcher;Bug+Bounty+Hunter;Information+Security+Enthusiast)](https://git.io/typing-svg)
+
 
 
 <!--
