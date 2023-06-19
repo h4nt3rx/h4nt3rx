@@ -1,7 +1,13 @@
 ### Hi there I’m @japzdivino 👋
 
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/frSfC5NcmyF7q/giphy.gif" width="200"/>
+</div>
+
 - 🌱 I’m currently learning Web3 security
 - 📫 How to reach me: robindivino at pm dot me
+
+
 
 <!--
 **h4nt3rx/h4nt3rx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
