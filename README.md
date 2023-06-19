@@ -1,7 +1,7 @@
 ## Hi there I’m @japzdivino 👋💻☕
 
 <div id="header" align="left">
-  <img src="https://media.giphy.com/media/frSfC5NcmyF7q/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/frSfC5NcmyF7q/giphy.gif" width="250"/>
 </div>
 
 - 🌱 I’m currently learning Web3 security
