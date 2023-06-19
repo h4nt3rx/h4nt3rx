@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there I’m @japzdivino 👋
+
+- 🌱 I’m currently learning Web3 security
+- 📫 How to reach me: robindivino at pm dot me
 
 <!--
 **h4nt3rx/h4nt3rx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
